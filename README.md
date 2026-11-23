@@ -21,12 +21,12 @@ Software engineer who likes building things people enjoy using. Replace this par
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/stats-light.svg" alt="GitHub stats: 110 contributions in the last 12 months. Current streak: 0 days, Longest streak: 8 days, Commits: 97 past year, All-time: 408 since 2019, Best week: 73 in 7 days, On GitHub: 7 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/stats-light.svg" alt="GitHub stats: 113 contributions in the last 12 months. Current streak: 1 day, Longest streak: 8 days, Commits: 97 past year, All-time: 411 since 2019, Best week: 73 in 7 days, On GitHub: 7 years." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/3d-light.svg" alt="3D contribution landscape: 110 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/3d-light.svg" alt="3D contribution landscape: 113 contributions in the last year" width="100%" />
 </picture>
 
 <picture>
