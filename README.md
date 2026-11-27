@@ -21,17 +21,17 @@ Software engineer who likes building things people enjoy using. Replace this par
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/stats-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/stats-light.svg" alt="GitHub stats: 113 contributions in the last 12 months. Current streak: 0 days, Longest streak: 8 days, Commits: 97 past year, All-time: 411 since 2019, Best week: 73 in 7 days, On GitHub: 7 years." width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/stats-light.svg" alt="GitHub stats: 116 contributions in the last 12 months. Current streak: 1 day, Longest streak: 8 days, Commits: 99 past year, All-time: 414 since 2019, Best week: 73 in 7 days, On GitHub: 7 years." width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/3d-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/3d-light.svg" alt="3D contribution landscape: 113 contributions in the last year" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/3d-light.svg" alt="3D contribution landscape: 116 contributions in the last year" width="100%" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/languages-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/languages-light.svg" alt="Most used languages (by commits): TypeScript 91.7%, PLpgSQL 2.4%, Python 2.1%, CSS 1.3%, Dart 1.0%, HTML 0.8%, Other 0.7%" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/languages-light.svg" alt="Most used languages (by commits): TypeScript 89.8%, PLpgSQL 2.3%, Python 2.1%, JavaScript 1.5%, CSS 1.3%, HTML 1.1%, Other 1.9%" width="100%" />
 </picture>
 
 <table>
@@ -66,10 +66,10 @@ Software engineer who likes building things people enjoy using. Replace this par
 </a>
     </td>
     <td width="50%">
-<a href="https://github.com/Tanish3967/Aegis">
+<a href="https://github.com/Tanish3967/Chronos">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/repo-tanish3967-aegis-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/repo-tanish3967-aegis-light.svg" alt="Aegis: AI Studio demo" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/repo-tanish3967-chronos-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Tanish3967/Tanish3967/profilescape-output/repo-tanish3967-chronos-light.svg" alt="Chronos" width="100%" />
 </picture>
 </a>
     </td>
